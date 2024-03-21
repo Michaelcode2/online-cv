@@ -159,13 +159,13 @@ certifications:
             They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; 
             using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, 
             and debug cloud-based applications that follow AWS best practices.
-        - name: HashiCorp Certified Terraform Associate (002)
+        - name: HashiCorp Certified, Terraform Associate (002)
           start: 2022
           end: 2024
           organization: HashiCorp
           #credentialid: 111-222
           credentialurl: https://www.credly.com/badges/a7b689c5-3161-4610-8063-e56991861cdd/public_url
-          credentialname: HashiCorp Certified Terraform Associate (002)
+          credentialname: HashiCorp Certified, Terraform Associate (002)
           details: |
             Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, 
             skills, and use cases associated with open source HashiCorp Terraform. They understand and 
@@ -178,7 +178,7 @@ certifications:
           organization: Python Institute
           #credentialid: 111-222
           credentialurl: https://www.credly.com/badges/f5c9e365-bec5-4d8b-8112-35879dee63fc/public_url
-          credentialname: HashiCorp Certified: Python Institute
+          credentialname: Python Institute
           details: |
             Earners of the PCEP - Certified Entry-Level Python Programmer certification have knowledge of the 
             universal concepts of computer programming, the syntax and semantics of the Python language as well as 
