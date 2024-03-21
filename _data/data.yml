@@ -17,18 +17,18 @@ sidebar:
     phone: +38 0505137602
     timezone: Europe/ECT
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: michael-vaynagiy
     #xing: alandoe
     github: Michaelcode2
     #telegram: # add your nickname without '@' sign
-    gitlab:
+    #gitlab:
     #bitbucket:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://www.africau.edu/images/default/sampe.pdf
 
     languages:
       title: Languages
@@ -110,7 +110,8 @@ experiences:
         company: PrivatBank, Ukraine
         details: |
           Working with high net worth individual customers
-            - Partnered with high net worth customers and private bankers to answer complex questions and solve operational issues while delivering superior customer service.
+            - Partnered with high net worth customers and private bankers to answer complex questions and 
+              solve operational issues while delivering superior customer service.
             - Managed customer service inquiries and pinpointed and implemented proper path to resolution.
             - Presented new digital products and services to existing customers.
             - Involved is banking system automation & digital transformation
@@ -118,133 +119,174 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: AWS Cloud practitioner
+          start: 2021
+          end: 2025
+          organization: Amazon Web Services
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/1fb9ab65-b28a-4804-86ac-7b8e935e720c/public_url
+          credentialname: AWS Cloud practitioner
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Earners of this certification have a comprehensive understanding of application life-cycle 
+            management. They demonstrated proficiency in writing applications with AWS service APIs, 
+            AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. 
+            Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices.
+        - name: AWS Certified Solutions Architect Associate
+          start: 2022
+          end: 2025
+          organization: Amazon Web Services
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/becc8907-4fdf-494f-a45b-660d1a556eed/public_url
+          credentialname: AWS Certified Solutions Architect Associate
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Earners of this certification have a comprehensive understanding of AWS services and technologies. 
+            They demonstrated the ability to build secure and robust solutions using architectural design principles 
+            based on customer requirements. Badge owners are able to strategically design well-architected distributed 
+            systems that are scalable, resilient, efficient, and fault-tolerant.Earners of this certification have a 
+            comprehensive understanding of AWS services and technologies. They demonstrated the ability to build 
+            secure and robust solutions using architectural design principles based on customer requirements. B
+            adge owners are able to strategically design well-architected distributed systems that are scalable, 
+            resilient, efficient, and fault-tolerant.
+        - name: AWS Certified Developer - Associate
+          start: 2024
+          end: 2027
+          organization: Amazon Web Services
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/5f4c21a3-0d9b-4abb-abeb-f23f384bacc4/public_url
+          credentialname: AWS Certified Developer - Associate
+          details: |
+            Earners of this certification have a comprehensive understanding of application life-cycle management. 
+            They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; 
+            using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, 
+            and debug cloud-based applications that follow AWS best practices.
+        - name: HashiCorp Certified Terraform Associate (002)
+          start: 2022
+          end: 2024
+          organization: HashiCorp
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/a7b689c5-3161-4610-8063-e56991861cdd/public_url
+          credentialname: HashiCorp Certified Terraform Associate (002)
+          details: |
+            Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, 
+            skills, and use cases associated with open source HashiCorp Terraform. They understand and 
+            can utilize Terraform according to the certification objectives. Additionally, 
+            they understand why enterprises choose to extend Terraform Open Source with Terraform Enterprise 
+            to solve business critical objectives.
+        - name: (PCEP-30-02) PCEP - Certified Entry-Level Python Programmer
+          start: 2023
+          end: 
+          organization: Python Institute
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/f5c9e365-bec5-4d8b-8112-35879dee63fc/public_url
+          credentialname: HashiCorp Certified: Python Institute
+          details: |
+            Earners of the PCEP - Certified Entry-Level Python Programmer certification have knowledge of the 
+            universal concepts of computer programming, the syntax and semantics of the Python language as well as 
+            demonstrate the ability to accomplish coding tasks related to the essentials of programming in the 
+            Python language and fundamental skills in resolving typical implementation challenges with the help 
+            of the Python Standard Library.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux OS
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Windows server OS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Kubernetes
+        level: 70%
+
+      - name: Networking
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 80%
+
+      - name: GitLab CI/CD
+        level: 90%
+
+      - name: Ansible
+        level: 70%
+
+      - name: Terraform
+        level: 95%
+
+      - name: Linux bash
+        level: 85%
+
+      - name: Windows Powershell
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Michael Vaynagiy</a>
