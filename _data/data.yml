@@ -28,7 +28,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sampe.pdf
+    pdf: https://michaelcode2.github.io/assets/Resume_Michael_Vaynagiy_DevOps.pdf
 
     languages:
       title: Languages
@@ -78,7 +78,7 @@ experiences:
         details: |
           Working for USA company, supporting for cloud migration program and decoupling 
             - Optimized build processes using GitLab CI/CD.
-            - Heavy usage of the Terraform and AWS deployment tools. 
+            - Experienced in Terraform and AWS deployment tools. 
             - Deployment serverless applications via GitLab CI (Lambda, API gateway, SQS, Kafka)
             - Automated manual tasks through both Powershell, Bash scripting languages and Python.
             - Provided technical guidance during product planning sessions, aligning business objectives with technological capabilities.
@@ -124,7 +124,7 @@ certifications:
           end: 2025
           organization: Amazon Web Services
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/1fb9ab65-b28a-4804-86ac-7b8e935e720c/public_url
+          credentialurl: www.credly.com/badges/1fb9ab65-b28a-4804-86ac-7b8e935e720c/public_url
           credentialname: AWS Cloud practitioner
           details: |
             Earners of this certification have a comprehensive understanding of application life-cycle 
@@ -136,7 +136,7 @@ certifications:
           end: 2025
           organization: Amazon Web Services
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/becc8907-4fdf-494f-a45b-660d1a556eed/public_url
+          credentialurl: www.credly.com/badges/becc8907-4fdf-494f-a45b-660d1a556eed/public_url
           credentialname: AWS Certified Solutions Architect Associate
           details: |
             Earners of this certification have a comprehensive understanding of AWS services and technologies. 
@@ -152,7 +152,7 @@ certifications:
           end: 2027
           organization: Amazon Web Services
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/5f4c21a3-0d9b-4abb-abeb-f23f384bacc4/public_url
+          credentialurl: www.credly.com/badges/5f4c21a3-0d9b-4abb-abeb-f23f384bacc4/public_url
           credentialname: AWS Certified Developer - Associate
           details: |
             Earners of this certification have a comprehensive understanding of application life-cycle management. 
@@ -164,7 +164,7 @@ certifications:
           end: 2024
           organization: HashiCorp
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/a7b689c5-3161-4610-8063-e56991861cdd/public_url
+          credentialurl: www.credly.com/badges/a7b689c5-3161-4610-8063-e56991861cdd/public_url
           credentialname: HashiCorp Certified, Terraform Associate (002)
           details: |
             Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, 
@@ -177,7 +177,7 @@ certifications:
           end: 
           organization: Python Institute
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/f5c9e365-bec5-4d8b-8112-35879dee63fc/public_url
+          credentialurl: www.credly.com/badges/f5c9e365-bec5-4d8b-8112-35879dee63fc/public_url
           credentialname: Python Institute
           details: |
             Earners of the PCEP - Certified Entry-Level Python Programmer certification have knowledge of the 
