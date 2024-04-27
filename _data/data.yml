@@ -28,7 +28,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/CV_Michael_Vaynagiy.pdf
+    pdf: https://michaelcode2.github.io/online-cv/assets/CV_Michael_Vaynagiy.pdf
 
     languages:
       title: Languages
