@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: vaynagiy@gmail.com
-    phone: +38 0505137602
+    phone: +38 XXXXXXX
     timezone: Europe/ECT
     citizenship:
     #website: blog.webjeda.com #do not add http://
@@ -76,14 +76,14 @@ experiences:
         time: 2022 - Present
         company: Luxoft LLC, Ukraine, EU, USA
         details: |
-          Working for USA company, supporting for cloud migration program and decoupling 
-            - Optimized build processes using GitLab CI/CD.
+          Working for International companies, supporting for cloud migration program and decoupling 
+            - Optimized integration and delivery processes using GitLab CI/CD.
             - Experienced in Terraform and AWS deployment tools. 
-            - Deployment serverless applications via GitLab CI (Lambda, API gateway, SQS, Kafka)
+            - Deployment serverless applications (Lambda, API gateway, SQS, Kafka)
             - Automated manual tasks through both Powershell, Bash scripting languages and Python.
             - Provided technical guidance during product planning sessions, aligning business objectives with technological capabilities.
-            - Deploying various range of the applications on the AWS cloud - EC2, EKS, Serverless, RDS etc.
-            - Kubernetes deployments configuration and monitoring.
+            - Deploying various range of the infrastructure and applications on the AWS cloud - EC2, EKS, Serverless, RDS etc.
+            - Kubernetes cluster configuration and monitoring.
             - Database management (MSSQL, Postgres, Dynamo DB, AWS Athena)
             - Implementation logging and monitoring tools like Splunk, New Relic.
             - Increased application scalability by migrating legacy systems to cloud-based platforms.
@@ -119,6 +119,21 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Certified Kubernetes administrator
+          start: 2024
+          end: 2026
+          organization: Linux foundation
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/5a18b66c-b630-4dfc-b0a8-a50e4dcdc519/public_url
+          credentialname: "CKA: Certified Kubernetes Administrator"
+          details: |
+            Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities 
+            of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, 
+            Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, 
+            Storage, and TroubleshootingEarners of this designation demonstrated the skills, knowledge and competencies to perform the 
+            responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, 
+            Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, 
+            Logging / Monitoring, Storage, and Troubleshooting
         - name: AWS Cloud practitioner
           start: 2021
           end: 2025
@@ -276,7 +291,7 @@ skills:
         level: 95%
 
       - name: Kubernetes
-        level: 70%
+        level: 75%
 
       - name: Networking
         level: 85%
